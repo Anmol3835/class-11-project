@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #503131;
+    color: white;
+    font-size: 30px;
+}
+.section{
+    width: 80%;
+    margin-top: 30px;
+    font-size: 70px;
+}
+.places-link a{
+    background: linear-gradient(to top, #503131, rgba(0,0,0, 0.4));
+    font-size: 20px;
+    padding: 4px 16px;
+    margin-top: 30px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.hero-img{
+    background-image: url(upper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+.heroin-img{
+    background-image: url(lower.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
